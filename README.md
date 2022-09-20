@@ -2,7 +2,7 @@
 Generate image from text with AI
 
 # Click here
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saitawngpha/stable-diffusion/diffusion_texttoimage_ai.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saitawngpha/stable-diffusion/blob/main/diffusion_texttoimage_ai.ipynb)
 
 # Demo Image
 Shan people harvested in their farm |  Shan people dancing on the street at BangKok
