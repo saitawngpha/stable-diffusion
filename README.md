@@ -11,6 +11,9 @@ Shan people harvested in their farm |  Shan people dancing on the street at Bang
 :-------------------------:|:-------------------------:
 Mr.robot hacker | iPhone at Apple Park
 ![](3.png)| ![](4.png)
-
+:-------------------------:|:-------------------------:
+![](5.png)| ![](6.png)
+:-------------------------:|:-------------------------:
+![](7.png)| ![](8.png)
 # Credit
 [Divam Gupta](https://github.com/divamgupta/stable-diffusion-tensorflow)
